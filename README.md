@@ -1,1 +1,3 @@
-# Deepfake_and_Anti-Deepfake
+# Deepfake and_ nti-Deepfake
+
+This is my final project for the **Cognitive Computing** course.
